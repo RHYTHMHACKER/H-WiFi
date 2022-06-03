@@ -11,29 +11,21 @@ NOTE: This Script does only work with the Termux Application for Android!
 Please Download Latest version on Termux from Texmux Websites
 
 ``
-
 pkg update && pkg upgrade -y
-
 ``
 
 ``
-
 pkg install git -y
-
 ``
 
 ``
-
 git clone https://github.com/RHYTHMHACKER/H-WiFi && cd H-WiFi
-
 ``
 
- To Give Complete Permission To Run The File :-
+To Give Complete Permission To Run The File :-
 
 ``
-
 chmod +rwx installer.sh && ./installer.sh
-
 ``
 
 That it's.
