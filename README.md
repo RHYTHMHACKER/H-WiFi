@@ -1,6 +1,6 @@
-# Termux-WiFi-Hacking
+# H-WiFi [WiFi Decryption Tool] Coded By NSproYT
 ## Aktively Maintained!
-This file was created & modified by ViperZCrew/Rebl0xer Members:
+This file was created & modified by RHYTHMHACKER/NSproGAMERSYT Members:
 
 - MrBlackX/TheMasterCH
 - 0n1cOn3
