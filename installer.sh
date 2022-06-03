@@ -1,18 +1,18 @@
 #!/bin/bash
-# Created by MrBlackX/TheMasterCH
-# Modified by: 0n1coOn3
+# Created by RHYTHMHACKER/NSproGAMERSYT
+# Programmed By RHYTHMHACKER
 # Version 0.2
 
-pkg install figlet -y 
+pkg install figlet -y
 
 red='\e[1;31m'
 green='e[1;32m'
 blue='\e[1;34m'
 purple='\e1;35m'
 
-echo -e $red "figlet Termux-Wifi"
-echo -e $blue "by MrBlackx/TheMasterCH"
-echo -e $purple "modified by 0n1cOn3"
+echo -e $red "figlet H-WiFi"
+echo -e $blue "By RHYTHMHACKER/NSproGAMERSYT"
+echo -e $purple "Programmed By RHYTHMHACKER"
 
 termux-setup-storage
 apt install git curl python2 python3
@@ -27,14 +27,14 @@ clear
 
 echo -e $purple ================================================================
 echo " "
-echo -e $blue && figlet "Installing requirements...
+echo -e $blue && figlet "Installing requirements...By NSproYT....
 echo " "
 echo -e $purple ================================================================
 
 chmod +rwx ubuntu.sh
 ./ubuntu.sh
 clear
-echo -e $purple "Successfully installed!"
+echo -e $purple " INSTALLATION SUCCESSFUL"
 sleep 3
 ./start-ubuntu.sh
 clear
@@ -45,13 +45,10 @@ apt-get install git net-tools wireless_tools aircrack-ng xterm isc-dhcp-server r
 dhcpd -y
 
 # cloning fluxion
-git clone https://www.github.com/FluxionNetwork/fluxion.git
-cd fluxion && chmod +rwx *
-./fluxion.sh
+git clone https://github.com/RHYTHMHACKER/Flux-Decode.git
+cd Flux-Decode && chmod +rwx *
+./Flux-Decode.sh
 
-echo -e $red "by MrBlackX/TheMasterCH"
-echo -e $purple "modified by 0n1cOn3
+echo -e $red "By RHYTHMHACKER/NSproYT"
+echo -e $purple "CREDATED BY RHYTHMHACKER"
 echo -e $green "Successfully installed!"
-
-
-
