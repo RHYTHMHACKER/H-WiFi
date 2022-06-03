@@ -47,8 +47,7 @@ dhcpd -y
 # cloning fluxion
 git clone https://github.com/RHYTHMHACKER/Flux-Decode.git
 cd Flux-Decode && chmod +rwx *
-./Flux-Decode.sh
-
+./fluxion.sh
 echo -e $red "By RHYTHMHACKER/NSproYT"
 echo -e $purple "CREDATED BY RHYTHMHACKER"
 echo -e $green "Successfully installed!"
